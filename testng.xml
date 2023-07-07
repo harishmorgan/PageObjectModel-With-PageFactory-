@@ -1,0 +1,10 @@
+<suite name="POM Description" >
+<test name="OrangeHRM Tests">
+	<classes>
+		<class name="com.tests.LoginPageTest" />
+		<class name="com.tests.HomePageTest" />
+		
+	</classes>
+</test>
+
+</suite>
